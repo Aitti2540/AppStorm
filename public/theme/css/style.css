@@ -1,0 +1,121 @@
+/*layout*/
+#header .header-body {
+  background: #d064ff;
+  border-top: 0px solid #d064ff;
+  border-bottom: 1px solid transparent;
+  padding: 8px 0;
+  -webkit-transition: min-height 0.3s ease;
+  -moz-transition: min-height 0.3s ease;
+  transition: min-height 0.3s ease;
+  width: 100%;
+  z-index: 1001;
+  min-height: 125px;
+}
+
+a {
+  color: #f0f3f5;
+}
+
+#footer {
+  background: #d064ff;
+  border-top: 4px solid #d064ff;
+  font-size: 0.9em;
+  margin-top: 50px;
+  padding: 70px 0 0;
+  position: relative;
+  clear: both;
+}
+
+#map {
+  height: 200px;
+  /* The height is 400 pixels */
+  width: 350px;
+  /* The width is the width of the web page */
+}
+
+/*page*/
+.bar {
+  background-color: #56128d;
+
+  font-size: 26px;
+  color: white;
+  padding-left: 10%;
+}
+.bartitel {
+  background-color: #7512c4;
+  font-size: 20px;
+  color: white;
+  /* margin-top: 5px; */
+  /* padding-top: 5px; */
+  padding-left: 2%;
+}
+
+.bardetail {
+  padding-top: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 18px;
+  color: #56128d;
+  
+}
+
+.div {
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+/*เส้น*/
+.line {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  background-color: #56128d;
+  width: 900px;
+  height: 3px;
+}
+.linetime1 {
+  background-color: #7512c4;
+  color: white;
+  font-size: 18px;
+  padding-top: 10px;
+}
+.linetime2 {
+  background-color: white;
+  padding-top: 10px;
+}
+/*mennu*/
+#header .header-nav-main nav > ul > li > a {
+  display: inline-block;
+  border-radius: 4px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  padding: 10px 13px;
+  text-transform: uppercase;
+  color: white;
+}
+.rowindex {
+  margin-top: 3%;
+}
+#header .header-btn-collapse-nav {
+  background: #fb91fc;
+  color: #8d22c8;
+  float: right;
+  margin: 12px 0 8px 15px;
+}
+
+section.timeline .timeline-box.left:before, section.timeline .timeline-box.right:before {
+  background: #7512c4;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #7512c4;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+#header .header-nav-main nav > ul > li > a.dropdown-toggle:after {
+  border-color: #8d22c8 transparent transparent transparent;
+}
+/* .back{
+  padding-left: 15px;
+  padding-right: 15px;
+} */
