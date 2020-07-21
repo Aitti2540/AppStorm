@@ -113,7 +113,7 @@ section.timeline .timeline-box.left:before, section.timeline .timeline-box.right
   opacity: 0.7;
 }
 #header .header-nav-main nav > ul > li > a.dropdown-toggle:after {
-  border-color: #8d22c8 transparent transparent transparent;
+  border-color: #ffffff transparent transparent transparent;
 }
 section.timeline {
   width: 75%;
