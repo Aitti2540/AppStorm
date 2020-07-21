@@ -12,32 +12,32 @@
 </div>
 <div class="container">
         <div  style="display: block;margin: auto;  margin-top: 4%; background-image: url('theme/img/Background1.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;" class="row center">
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon1.png" alt="">
                 </a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon2.png" alt="">
                 </a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon3.png" alt="">
                 </a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon4.png" alt="">
                 </a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon5.png" alt="">
                 </a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-4 fa">
                 <a href="">
                     <img style="width: 100%;" src="theme/img/icon6.png" alt="">
                 </a>
