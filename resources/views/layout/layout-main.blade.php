@@ -57,7 +57,7 @@
 </head>
 
 <body>
-	<div  style="background-color: #d3b7ea;" class="body">
+	<div style="background-color: #d3b7ea;" class="body">
 		<header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-57px', 'stickyChangeLogo': true}">
 			<div class="header-body">
 				<div class="header-container container">
@@ -83,7 +83,7 @@
 									<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
 										<i class="fa fa-bars"></i>
 									</button>
-								
+
 									<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 										<nav>
 											<ul class=" nav nav-pills" id="mainNav">
@@ -92,12 +92,12 @@
 													<a class="" href="index.php">
 														หน้าหลัก
 													</a>
-													
+
 												</li>
-											
+
 												<li class="dropdown">
 													<a class=" dropdown-toggle" href="#">
-													ประวัติ
+														ประวัติ
 													</a>
 													<ul class="dropdown-menu">
 														<li><a href="portfolio">ประวัติ CEO</a></li>
@@ -163,7 +163,7 @@
 													</a>
 													<ul class="dropdown-menu">
 														<li><a href="join-up">ตำแหน่งงานที่เปิดรับ</a></li>
-														</ul>
+													</ul>
 												</li>
 											</ul>
 										</nav>
@@ -200,41 +200,56 @@
 						</div>
 						<a href="https://bit.ly/3gG7Vyj"><img src="theme/img/QR-facebook appstorm.png" style=" top: 33px; width: 40%; height: 40%;"></a>
 					</div>
-							<h4>แผนที่</h4>
-							<!--The div element for the map -->
-							<div id="map"></div>
-							<script>
-								// Initialize and add the map
-								function initMap() {
-									// The location of Uluru
-									var uluru = {
-										lat: 13.834231849922134,
-										lng: 100.66254542569577
-									};
-									// The map, centered at Uluru
-									var map = new google.maps.Map(
-										document.getElementById('map'), {
-											zoom: 15,
-											center: uluru
-										});
-									// The marker, positioned at Uluru
-									var marker = new google.maps.Marker({
-										position: uluru,
-										map: map
+					<div class="col-md-4">
+					<h4>แผนที่</h4>
+
+					<!DOCTYPE html>
+					<html>
+
+					<head>
+						<style>
+							/* Set the size of the div element that contains the map */
+							#map {
+								height: 400px;
+								/* The height is 400 pixels */
+								width: 100%;
+								/* The width is the width of the web page */
+							}
+						</style>
+					</head>
+
+					<body>
+						<!--The div element for the map -->
+						<div id="map"></div>
+						<script>
+							// Initialize and add the map
+							function initMap() {
+								// The location of Uluru
+								var uluru = {
+									lat: 13.834215875173903,
+									lng: 100.66256420497754
+								};
+								// The map, centered at Uluru
+								var map = new google.maps.Map(
+									document.getElementById('map'), {
+										zoom: 15,
+										center: uluru
 									});
-								}
-							</script>
-							<script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-							</script>
-					
-					<!-- <div class="col-md-2">
-							<h4>Follow Us</h4>
-							<ul class="social-icons">
-								<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-						</div> -->
+								// The marker, positioned at Uluru
+								var marker = new google.maps.Marker({
+									position: uluru,
+									map: map
+								});
+							}
+						</script>
+						<script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+						</script>
+					</body>
+
+					</html>
+				</div>
+
+
 				</div>
 			</div>
 
