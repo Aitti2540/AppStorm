@@ -202,51 +202,7 @@
 					</div>
 					<div class="col-md-4">
 					<h4>แผนที่</h4>
-
-					<!DOCTYPE html>
-					<html>
-
-					<head>
-						<style>
-							/* Set the size of the div element that contains the map */
-							#map {
-								height: 400px;
-								/* The height is 400 pixels */
-								width: 100%;
-								/* The width is the width of the web page */
-							}
-						</style>
-					</head>
-
-					<body>
-						<!--The div element for the map -->
-						<div id="map"></div>
-						<script>
-							// Initialize and add the map
-							function initMap() {
-								// The location of Uluru
-								var uluru = {
-									lat: 13.834215875173903,
-									lng: 100.66256420497754
-								};
-								// The map, centered at Uluru
-								var map = new google.maps.Map(
-									document.getElementById('map'), {
-										zoom: 15,
-										center: uluru
-									});
-								// The marker, positioned at Uluru
-								var marker = new google.maps.Marker({
-									position: uluru,
-									map: map
-								});
-							}
-						</script>
-						<script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-						</script>
-					</body>
-
-					</html>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3874.083263565442!2d100.6605925148314!3d13.834038590294252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d62e310cd3565%3A0xd6cb0a4cad89bfa2!2z4Lia4Lij4Li04Lip4Lix4LiXIOC5gOC4reC5h-C4meC5gOC4reC4iuC5geC4reC4pSDguYDguJfguITguJnguLTguIQg4LiI4Liz4LiB4Lix4LiU!5e0!3m2!1sth!2sth!4v1595320132649!5m2!1sth!2sth" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 
 
