@@ -115,7 +115,10 @@ section.timeline .timeline-box.left:before, section.timeline .timeline-box.right
 #header .header-nav-main nav > ul > li > a.dropdown-toggle:after {
   border-color: #8d22c8 transparent transparent transparent;
 }
-/* .back{
-  padding-left: 15px;
-  padding-right: 15px;
-} */
+section.timeline {
+  width: 75%;
+  margin: -50px 12.5% 0;
+  position: relative;
+  float: left;
+  padding-bottom: 120px;
+}

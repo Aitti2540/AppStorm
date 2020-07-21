@@ -5,9 +5,18 @@
     <img src="theme/img/art_1300x350.jpg">
 </div>
 <div class="container">
+            <div class="row center">
+                <div class="col-md-12">
+                    <div style=" margin: 10px 0px -30px; overflow: hidden;">
+                        <img src="theme/img/Dragon blood.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="container">
     <div class="row pt-xs pb-xl mb-md">
         <div class="col-md-12">
-            <p class="bar lead mb-xl"> <b> ด้านการทำธุรกิจ</b></p>
+            <!-- <p class="bar lead mb-xl"> <b> ด้านการทำธุรกิจ</b></p> -->
             <div class="div">
                 <p class="bardetail lead mb-xl">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>จากจุดเริ่มต้นเล็กๆ</b>ซึ่งได้กลายเป็นแรงบันดาลใจอันยิ่งใหญ่ ให้ตัดสินใจเดินทางไป <b>ใช้ชีวิตอยู่ในประเทศเปรู</b>
                     ทวีปอเมริกาใต้กว่า 20 วัน ต้องบุกป่าฝ่าดงเข้าไปในป่าอะมาซอน เพียงเพื่อต้องการค้นหาความจริงเกี่ยวกับ
@@ -29,14 +38,14 @@
             </div>
         </div>
         <div class="container">
-    <div class="row center">
-        <div class="col-md-12">
-            <div style=" margin: 10px 0px -30px; overflow: hidden;">
-                <img src="theme/img/food.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            <div class="row center">
+                <div class="col-md-12">
+                    <div style=" margin: 10px 0px -30px; overflow: hidden;">
+                        <img src="theme/img/food.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</div>
         <div class="col-md-12">
             <!-- <p class="bar lead mb-xl"> <b> ด้านธุรกิจอาหาร</b></p> -->
             <div class="div">

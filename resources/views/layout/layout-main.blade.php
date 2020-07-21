@@ -64,7 +64,7 @@
 					<div class="header-row">
 						<div class="header-column">
 							<div class="header-logo">
-								<a href="index.html">
+								<a href="/">
 									<img alt="Porto" width="150" height="94" data-sticky-width="121" data-sticky-height="80" data-sticky-top="25" src="theme/img/Logo300x300.png">
 								</a>
 							</div>
@@ -89,7 +89,7 @@
 											<ul class=" nav nav-pills" id="mainNav">
 												<!-- <li class="dropdown active"> -->
 												<li class=" dropdown ">
-													<a class="" href="index.php">
+													<a class="" href="/">
 														หน้าหลัก
 													</a>
 
@@ -202,7 +202,7 @@
 					</div>
 					<div class="col-md-4">
 					<h4>แผนที่</h4>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3874.083263565442!2d100.6605925148314!3d13.834038590294252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d62e310cd3565%3A0xd6cb0a4cad89bfa2!2z4Lia4Lij4Li04Lip4Lix4LiXIOC5gOC4reC5h-C4meC5gOC4reC4iuC5geC4reC4pSDguYDguJfguITguJnguLTguIQg4LiI4Liz4LiB4Lix4LiU!5e0!3m2!1sth!2sth!4v1595320132649!5m2!1sth!2sth" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7754.267134994995!2d100.599832!3d13.649638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5574b9ad4d25d954!2sNAKARA%20GLOBAL%20MEDIA%20CO.%2C%20LTD.!5e0!3m2!1sth!2sth!4v1595322079395!5m2!1sth!2sth" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 
 
