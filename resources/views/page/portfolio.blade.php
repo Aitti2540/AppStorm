@@ -76,7 +76,10 @@
             </div>
         </div>
         <div class="col-md-12">
-            <p class="bar lead mb-xl"> <b>ด้านงานเขียน</b></p>
+        <div style=" margin: 10px 0px -30px; overflow: hidden;">
+                    <img src="theme/img/Writing.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                </div>
+            <!-- <p class="bar lead mb-xl"> <b>ด้านงานเขียน</b></p> -->
             <div class="div">
                 <p class="bartitel lead mb-xl">- เจ้าของผลงานเขียนเรื่อง ปรุงรักให้ใจเล็กๆ (Make up your mind)</p>
                 <p class="bardetail lead mb-xl">By กวีนาง สำนักพิมพ์ FIKA มีจำหน่ายที่ร้านหนังสือในเครือซีเอ็ดบุ๊คฯ และทาง Ebook</p>
