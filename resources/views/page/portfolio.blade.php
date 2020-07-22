@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row center">
         <div class="col-md-12">
-            <div style=" margin: 10px 0px -30px; overflow: hidden;">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
                 <img src="theme/img/pro01.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
             </div>
         </div>

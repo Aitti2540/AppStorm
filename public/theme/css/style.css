@@ -36,7 +36,7 @@ a {
 /*page*/
 .bar {
   background-color: #56128d;
-
+  /* margin-top: 1%; */
   font-size: 26px;
   color: white;
   padding-left: 10%;
