@@ -41,4 +41,8 @@ class PagesController extends Controller
     {
         return view("page.vision");
     }
+    public function mission()
+    {
+        return view("page.mission");
+    }
 }
