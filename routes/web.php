@@ -20,6 +20,7 @@ Route::get('benefit','PagesController@benefit');
 Route::get('awards','PagesController@awards');
 Route::get('join-up','PagesController@joinup');
 Route::get('position-required','PagesController@required');
+Route::get('vision','PagesController@vision');
 
 
 

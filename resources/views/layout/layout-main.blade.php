@@ -113,7 +113,7 @@
 														เกี่ยวกับเรา
 													</a>
 													<ul class="dropdown-menu">
-														<li><a href="shortcodes-accordions.html">วิสัยทัศน์ 2020</a></li>
+														<li><a href="vision">วิสัยทัศน์ 2020</a></li>
 														<li><a href="shortcodes-toggles.html">พันธกิจ</a></li>
 														<li><a href="shortcodes-toggles.html">วัฒนธรรมองค์กร</a></li>
 														<li><a href="shortcodes-toggles.html">โครงสร้างการบริหาร</a></li>

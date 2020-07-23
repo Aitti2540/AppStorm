@@ -42,10 +42,10 @@ a {
   padding-left: 10%;
 }
 .bartitel {
-  background-color: #7512c4;
+  /* background-color: #7512c4; */
   font-size: 20px;
-  color: white;
-  margin-top: 3%;
+  color:#56128d;
+  margin-top: 20px;
 
   /* margin-top: 5px; */
   /* padding-top: 5px; */
@@ -53,17 +53,19 @@ a {
 }
 
 .bardetail {
-  padding-top: 10px;
+  margin-top: -20px;
+  /* padding-top: -5px; */
   padding-left: 5%;
   padding-right: 5%;
-  font-size: 18px;
+  font-size: 16px;
   color: #56128d;
   
 }
 
 .div {
   background-color: white;
-  padding-bottom: 10px;
+  /* padding-bottom: 10px;
+  padding-top: 10px; */
 }
 
 /*เส้น*/

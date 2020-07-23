@@ -37,4 +37,8 @@ class PagesController extends Controller
     {
         return view("page.position-required");
     }
+    public function vision()
+    {
+        return view("page.vision");
+    }
 }
