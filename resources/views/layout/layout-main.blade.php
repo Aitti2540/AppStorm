@@ -133,11 +133,11 @@
 
 													</ul>
 												</li> -->
-												<li class="">
+												<!-- <li class="">
 													<a href="#">
 														มุมมองทัศนะ
 													</a>
-												</li>
+												</li> -->
 
 												<li class="">
 													<a class="" href="#">

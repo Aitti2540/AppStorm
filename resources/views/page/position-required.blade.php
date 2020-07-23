@@ -1,6 +1,8 @@
 @extends('layout.layout-main')
 @section('content')
-<div class="container">
+<div class="container div">
+<div class="row pt-xs pb-xl mb-md ">
+
     <div style="margin-top: 15px;" class="row center">
         <div>
             <div class=" col-md-12">
@@ -41,4 +43,6 @@
         </div>
     </div>
 </div>
+</div>
+
 @endsection
