@@ -40,7 +40,7 @@
             </span>
         </article>
 
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
+        <article style=" background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
             <span>
                 <p>วุฒิบัตร “โภชนาการทางเลือกเพื่อส่งเสริมสุขภาพ และชะลอวัย” จากชมรมโภชนวิทยามหิดล และ ภาควิชาโภชนวิทยา
                     คณะสาธารณสุขศาสตร์ มหาวิทยาลัยมหิดล</p>
