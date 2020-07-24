@@ -50,6 +50,11 @@
                 <p class="bardetail lead mb-xl">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ข้าวหน้าไก่ที่ได้รับความนิยม และเคยถูกเชิญให้ไปออกรายการบ้านพระราม 4 ทางช่อง 3 และข้าวหน้าไก่ซึ่งได้รับการคัดเลือกให้เป็นหนึ่งในอาหารอร่อย
                     เมืองกรุงเทพมหานคร จากกระทรวงวัฒนธรรม</p>
         </div>
+        <div class="col-md-12">
+                    <div style=" margin: 10px 0px -30px; overflow: hidden;">
+                        <img src="theme/img/aftersuccess.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                    </div>
+                </div>
     </div>
 </div>
 

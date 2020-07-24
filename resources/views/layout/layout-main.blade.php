@@ -113,10 +113,10 @@
 														เกี่ยวกับเรา
 													</a>
 													<ul class="dropdown-menu">
-														<li><a href="vision">วิสัยทัศน์ 2020</a></li>
-														<li><a href="mission">พันธกิจ</a></li>
-														<li><a href="shortcodes-toggles.html">วัฒนธรรมองค์กร</a></li>
-														<li><a href="shortcodes-toggles.html">โครงสร้างการบริหาร</a></li>
+														<li><a href="vision">วิสัยทัศน์ 2020และพันธกิจ</a></li>
+														<!-- <li><a href="mission"></a></li> -->
+														<!-- <li><a href="shortcodes-toggles.html">วัฒนธรรมองค์กร</a></li> -->
+														<li><a href="structure">โครงสร้างการบริหาร</a></li>
 													</ul>
 												</li>
 												<!-- <li class="">
@@ -139,8 +139,8 @@
 													</a>
 												</li> -->
 
-												<li class="">
-													<a class="" href="#">
+												<li class="dropdown">
+													<a class="" href="Current_work">
 														ผลงานปัจจุบัน
 													</a>
 
@@ -181,11 +181,10 @@
 		<footer id="footer">
 			<div align="center" class="container">
 				<div class="row">
-					<!-- <div class="footer-ribbon">
-										<span>Get in Touch</span>			</div> -->
-					<div class="col-md-4">
+					
+					<div class="col-md-3">
 						<div class="newsletter">
-							<h4>ช่องทางการติดต่อ LINE@</h4>
+							<h4 style="font-size: 18px;"><b>ช่องทางการติดต่อ LINE@</b></h4>
 							<p style="color: white;">ID Line : @appstorm</p>
 							<a href="https://lin.ee/LCDvrPw">
 								<img src="theme/img/addline.png" style="top: 33px; width: 50%; height: 50%;">
@@ -193,17 +192,25 @@
 
 						</div>
 					</div>
-					<div class="col-md-4">
-						<h4>ช่องทางการติดต่อ FACEBOOK</h4>
+					<div class="col-md-3">
+						<h4 style="font-size: 18px;"><b>ช่องทางการติดต่อ FACEBOOK</b></h4>
 						<div id="tweet" class="twitter" data-plugin-tweets data-plugin-options="{'username': '', 'count': 2}">
 							<p style="color: white;">Fanpage APP Storm Channel แอปสตอร์ม แชนแนล</p>
 						</div>
 						<a href="https://bit.ly/3gG7Vyj"><img src="theme/img/QR-facebook appstorm.png" style=" top: 33px; width: 40%; height: 40%;"></a>
 					</div>
-					<div class="col-md-4">
-					<h4>แผนที่</h4>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7754.267134994995!2d100.599832!3d13.649638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5574b9ad4d25d954!2sNAKARA%20GLOBAL%20MEDIA%20CO.%2C%20LTD.!5e0!3m2!1sth!2sth!4v1595322079395!5m2!1sth!2sth" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				</div>
+					<div class="col-md-3">
+						<h4 style="font-size: 18px;"><b>ติดต่อ</b></h4>
+						<p style="color: white;">ที่อยู่</p>
+						<span style="color: white;">NAKARA GLOBAL MEDIA CO.,LTD.<br>
+							525 183 ซอย พรสว่าง 4 ตำบล สำโรงเหนือ<br>
+							อำเภอเมืองสมุทรปราการ สมุทรปราการ 10270 <br>
+							E-mail : nakara.chaya@gmail.com</span>
+					</div>
+					<div class="col-md-3">
+						<h4 style="font-size: 18px;"><b>แผนที่</b></h4>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7754.267134994995!2d100.599832!3d13.649638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5574b9ad4d25d954!2sNAKARA%20GLOBAL%20MEDIA%20CO.%2C%20LTD.!5e0!3m2!1sth!2sth!4v1595322079395!5m2!1sth!2sth" width="300" height="225" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					</div>
 
 
 				</div>

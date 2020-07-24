@@ -45,4 +45,12 @@ class PagesController extends Controller
     {
         return view("page.mission");
     }
+    public function structure()
+    {
+        return view("page.structure");
+    }
+    public function Current_work()
+    {
+        return view("page.Current_work");
+    }
 }
