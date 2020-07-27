@@ -111,7 +111,7 @@
 													</ul>
 												</li>
 												<li class="dropdown">
-													<a class="" href="Current_work">
+													<a class="" href="current_work">
 														ผลงานปัจจุบัน
 													</a>
 												</li>

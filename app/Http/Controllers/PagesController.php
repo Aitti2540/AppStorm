@@ -49,8 +49,8 @@ class PagesController extends Controller
     {
         return view("page.structure");
     }
-    public function Current_work()
+    public function current_work()
     {
-        return view("page.Current_work");
+        return view("page.current_work");
     }
 }
