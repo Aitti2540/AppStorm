@@ -85,7 +85,7 @@
         </div>
         <div style="height: 550px;" class="col-md-6">
             <div style=" margin: 10px 0px -30px; overflow: hidden;">
-                <img src="theme/img/Writing.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                <img src="theme/img/Writing.png" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
             </div>
         </div>
         <div style=" height: 550px;  " class="col-md-6">

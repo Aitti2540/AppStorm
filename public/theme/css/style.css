@@ -44,7 +44,7 @@ a {
 .bartitel {
   /* background-color: #7512c4; */
   font-size: 16px;
-  color:#56128d;
+  color: #56128d;
   margin-top: 20px;
 
   /* margin-top: 5px; */
@@ -59,7 +59,6 @@ a {
   padding-right: 5%;
   font-size: 16px;
   color: #56128d;
-  
 }
 
 .div {
@@ -91,7 +90,7 @@ a {
 #header .header-nav-main nav > ul > li > a {
   display: inline-block;
   border-radius: 4px;
-  font-size: 14px;
+  font-size: 15px;
   font-style: normal;
   font-weight: 700;
   line-height: 20px;
@@ -109,7 +108,8 @@ a {
   margin: 12px 0 8px 15px;
 }
 
-section.timeline .timeline-box.left:before, section.timeline .timeline-box.right:before {
+section.timeline .timeline-box.left:before,
+section.timeline .timeline-box.right:before {
   background: #7512c4;
   box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #7512c4;
 }
@@ -128,7 +128,13 @@ section.timeline {
 }
 
 section.timeline:after {
- background: linear-gradient(to bottom, rgba(80, 80, 80, 0) 0%, #505050 8%, #505050 92%, rgba(80, 80, 80, 0) 100%);
+  background: linear-gradient(
+    to bottom,
+    rgba(80, 80, 80, 0) 0%,
+    #505050 8%,
+    #505050 92%,
+    rgba(80, 80, 80, 0) 100%
+  );
   content: "";
   display: block;
   height: 96%;
@@ -148,4 +154,19 @@ section.timeline {
   padding-bottom: 120px;
   margin-left: auto;
   margin-right: auto;
+}
+.work {
+  font-size: 28px;
+  margin-top: 20px;
+  color: #56128d;
+}
+.workdetail {
+  background-color: #fde1fb;
+  margin-top: 60px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 22px;
+  color: #56128d;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
