@@ -7,96 +7,79 @@
             <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
                 <img src="theme/img/awards.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
             </div>
-            <section style="margin-top: 10px;" class=" timeline linetime2" id="timeline">
-    <div class="timeline-body">
-        <div style="background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ปี พ.ศ. 2560 </div>
         </div>
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box left ">
-
-            <span>
-                <p>ได้รับประกาศนียบัตรให้แบรนด์ “ ข้าวหน้าไก่เอ๋เอ๋” ได้รับคัดเลือกให้เป็นหนึ่งในอาหารอร่อยเมืองกรุงเทพมหานคร
-                    จากกระทรวงวัฒนธรรม</p>
-            </span>
-        </article>
-        <div style="background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ปี พ.ศ.2558</div>
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2560.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
         </div>
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
-            <span>
-                <p>ได้รับการเชิดชูเกียรติให้เป็นGUESTS SPEAKER ขึ้นพูดบนเวที ณ อิมแพคอารีน่า เมืองทองธานี ในฐานะที่รับตำแหน่ง
-                    SENIOR DIRECTOR ของบริษัทยูนิซิตี้ ฯ</p>
-            </span>
-        </article>
-        <div style="background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ปี พ.ศ.2557 </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับประกาศนียบัตรให้แบรนด์ “ ข้าวหน้าไก่เอ๋เอ๋” ได้รับคัดเลือกให้เป็นหนึ่งในอาหารอร่อยเมืองกรุงเทพมหานคร
+                    จากกระทรวงวัฒนธรรม </b></p>
         </div>
-        <article style="  background-color: #e9aaf1; font-size: 18px;;" class="timeline-box left">
-
-            <span>
-                <p>CERTIFICATE Association of Cell Therapy, Thai Certificate of Attendance, In recognition
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2558.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับการเชิดชูเกียรติให้เป็นGUESTS SPEAKER ขึ้นพูดบนเวที ณ อิมแพคอารีน่า เมืองทองธานี ในฐานะที่รับตำแหน่ง
+                    SENIOR DIRECTOR ของบริษัทยูนิซิตี้ ฯ</b></p>
+        </div>
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2557.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CERTIFICATE Association of Cell Therapy, Thai Certificate of Attendance, In recognition
                     for participation in4th introduction to Practical Cell Therapy Workshop ( Certificate No.
-                    ACTF00224)</p>
-            </span>
-        </article>
-
-        <article style=" background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
-            <span>
-                <p>วุฒิบัตร “โภชนาการทางเลือกเพื่อส่งเสริมสุขภาพ และชะลอวัย” จากชมรมโภชนวิทยามหิดล และ ภาควิชาโภชนวิทยา
-                    คณะสาธารณสุขศาสตร์ มหาวิทยาลัยมหิดล</p>
-            </span>
-        </article>
-
-        <article style=" background-color: #e9aaf1;font-size: 18px;" class="timeline-box left">
-
-            <span>
-                <p>ได้รับตำแหน่ง DIRECTOR ของบริษัทยูนิซิตี้ ฯ</p>
-            </span>
-        </article>
-
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
-            <span>
-                <p>ได้รับโล่ห์ศิษย์เก่าดีเด่นพระหฤทัย จ.เชียงใหม่ ด้านศิษย์เก่าดีเด่นรุ่นใหม่</p>
-            </span>
-        </article>
-        <div style="background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ปี พ.ศ.2553 </div>
+                    ACTF00224)</b></p>
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;วุฒิบัตร “โภชนาการทางเลือกเพื่อส่งเสริมสุขภาพ และชะลอวัย” จากชมรมโภชนวิทยามหิดล และ ภาควิชาโภชนวิทยา
+                    คณะสาธารณสุขศาสตร์ มหาวิทยาลัยมหิดล</b></p>
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับตำแหน่ง DIRECTOR ของบริษัทยูนิซิตี้ ฯ</b></p>
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับโล่ห์ศิษย์เก่าดีเด่นพระหฤทัย จ.เชียงใหม่ ด้านศิษย์เก่าดีเด่นรุ่นใหม่</b></p>
         </div>
-        <article style=" background-color: #e9aaf1;font-size: 18px;" class="timeline-box left">
-
-            <span>
-                <p>ได้รับเกียรติบัตร ในการถือครองลิขสิทธิ์ ในผลิตภัณฑ์ที่เกี่ยวข้องกับ Dragon Blood Concentrated
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2553.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับเกียรติบัตร ในการถือครองลิขสิทธิ์ ในผลิตภัณฑ์ที่เกี่ยวข้องกับ Dragon Blood Concentrated
                     Serum จากประเทศไต้หวัน ซึ่งถือเป็นความภาคภูมิใจ ที่ได้เป็นผู้ถือครองลิขสิทธิ์แต่เพียงผู้เดียวทั้งใน
-                    ประเทศไทย และประเทศในแถบภูมิภาคอินโดจีน</p>
-            </span>
-        </article>
+                    ประเทศไทย และประเทศในแถบภูมิภาคอินโดจีน</b></p>
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับโล่ห์เรียนดี ในระดับนิเทศศาสตรมหาบัณฑิต จากคณะนิเทศศาสตร์มหาวิทยาลัยเกริก</b></p>
 
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
-            <span>
-                <p>ได้รับโล่ห์เรียนดี ในระดับนิเทศศาสตรมหาบัณฑิต จากคณะนิเทศศาสตร์มหาวิทยาลัยเกริก</p>
-            </span>
-        </article>
-        <div style="background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ปี พ.ศ.2540 </div>
         </div>
-        <article style=" background-color: #e9aaf1;font-size: 18px;" class="timeline-box left">
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2551.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับการแต่งตั้ง ให้เป็นอาจารย์พิเศษ คณะนิเทศศาสตร์ มหาวิทยาลัยเกริก</b></p>
 
-            <span>
-                <p>ได้รับประกาศนียบัตร จากกรมส่งเสริมอุตสาหกรรม ในการเข้าอบรมหลักสูตรผู้ประกอบการธุรกิจขนาดกลางและขนาดย่อม NEC ดารารุ่น 5 </p>
-            </span>
-        </article>
-        <div style="height: 85px; background-color: #7512c4;padding-top: 10px;" class="linetime1 timeline-date">
-            <div align="center">ในสมัยที่ยังศึกษาในโรงเรียนพระหฤทัย จ.เชียงใหม่ </div>
         </div>
-        <article style="  background-color: #e9aaf1;font-size: 18px;" class="timeline-box right">
-            <span>
-                <p>ได้รับโล่ห์เรียนดี ในระดับนิเทศศาสตรมหาบัณฑิต จากคณะนิเทศศาสตร์มหาวิทยาลัยเกริก</p>
-            </span>
-        </article>
-    </div>
-</section>
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/2540.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
         </div>
-        
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับประกาศนียบัตร จากกรมส่งเสริมอุตสาหกรรม ในการเข้าอบรมหลักสูตรผู้ประกอบการธุรกิจขนาดกลางและขนาดย่อม NEC ดารารุ่น 5 </b></p>
+
+        </div>
+        <div class="col-md-12">
+            <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/chiamai.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับถ้วยรางวัล เกียรติบัตร และเหรียญรางวัล จากการแข่งขันกีฬาว่ายน้ำ มากมาย</b></p>
+
+        </div>
+
     </div>
 </div>
 

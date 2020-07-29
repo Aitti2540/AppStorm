@@ -28,8 +28,21 @@
                     ทั้งยังมีโอกาสได้ทำกิจกรรมที่บ้านพักคนชรา จ.ราชบุรี และนอกจากนี้ในปัจจุบันก็ยังมีโอกาสได้ให้ความช่วยเหลือสนับสนุนทุน
                     การศึกษาให้กับ<b>มูลนิธิยูนิเซฟ</b> ในทุกๆเดือนอีกด้วย</p>
             </div>
+            <div class="container ">
+            <div class="row pt-xs pb-xl mb-md ">
+                <div class="row center">
+                    <div class="col-md-12">
+                        <div style=" margin: -5px 0px -63px; overflow: hidden;">
+                            <img style="    padding-right: 30px;" src="theme/img/afterbenefit.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+        </div>  
+     
     </div>
+  
 </div>
 
 @endsection

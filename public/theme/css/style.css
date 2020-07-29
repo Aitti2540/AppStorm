@@ -170,3 +170,13 @@ section.timeline {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.awardsdetail{
+  background-color: #fde1fb;
+  /* margin-top: 60px; */
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 22px;
+  color: #56128d;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
