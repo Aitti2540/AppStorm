@@ -5,7 +5,7 @@
     <div class="row pt-xs pb-xl mb-md">
         <div class="col-md-12">
             <div style="margin-bottom: 1px; margin: 10px px -30px; overflow: hidden;">
-                <img src="theme/img/awards.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+                <img src="theme/img/headerawards.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
             </div>
         </div>
         <div class="col-md-12">
@@ -79,7 +79,11 @@
             <p class="awardsdetail lead mb-xl"> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ได้รับถ้วยรางวัล เกียรติบัตร และเหรียญรางวัล จากการแข่งขันกีฬาว่ายน้ำ มากมาย</b></p>
 
         </div>
-
+        <div class="col-md-12">
+            <div style="margin-bottom: -25px; margin: 10px px -30px; overflow: hidden;">
+                <img src="theme/img/afterawards.jpg" class=" img-responsive appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" alt="dark and light">
+            </div>
+        </div>
     </div>
 </div>
 
